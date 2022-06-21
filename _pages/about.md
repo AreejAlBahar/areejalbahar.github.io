@@ -28,7 +28,7 @@ Education
       <span style="font-weight:normal">2018 - 2022</span>
     </th>
     <th style="text-align:left">
-      PhD <span style="font-weight:normal"> in Industrial and Systems Engineering from</span> Virginia Tech
+      Ph.D. <span style="font-weight:normal"> in Industrial and Systems Engineering from</span> Virginia Tech
     </th>
   </tr>
 
@@ -37,7 +37,7 @@ Education
       <span style="font-weight:normal">2014 - 2016</span>
     </th>
     <th style="text-align:left">
-      Master of Science <span style="font-weight:normal">in Industrial and Systems Engineering from</span> Univeristy of Florida
+      M.S. <span style="font-weight:normal">in Industrial and Systems Engineering from</span> Univeristy of Florida
     </th>
   </tr>
 
@@ -46,7 +46,7 @@ Education
       <span style="font-weight:normal">2008 - 2012</span>
     </th>
     <th style="text-align:left">
-      Bachelor of Science <span style="font-weight:normal">in Industrial and Management Systems Engineering from</span> Kuwait University
+      B.S. <span style="font-weight:normal">in Industrial and Management Systems Engineering from</span> Kuwait University
     </th>
   </tr>
 </table>
