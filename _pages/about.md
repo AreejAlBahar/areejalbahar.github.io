@@ -17,7 +17,7 @@ My research interests include statistical quality control and machine learning, 
 
 <!-- My research interests include cluster management systems, serverless computing, containerization, cloud computing, machine learning, distributed file and storage systems, and performance analysis. -->
 
-<!-- You can find my CV [here](https://filebox.ece.vt.edu/~hadeel89/hadeelcv.pdf).  -->
+You can find my CV [here](https://areejalbahar.github.io/Areej_CV_Mar2022.pdf).
 
 Education
 ======
