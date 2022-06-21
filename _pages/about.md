@@ -28,7 +28,7 @@ Education
       <span style="font-weight:normal">Aug. 2018 - Present</span>
     </th>
     <th style="text-align:left">
-      PhD Candidate <span style="font-weight:normal"> in Industrial and Systems Engineering from</span>Virgina Tech
+      PhD Candidate <span style="font-weight:normal"> in Industrial and Systems Engineering from</span> Virginia Tech
     </th>
   </tr>
 
