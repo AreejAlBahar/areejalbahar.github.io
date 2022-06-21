@@ -25,7 +25,7 @@ Education
 <table style="width:100%">
   <tr style="font-size:16px">
     <th style="text-align:right">
-      <span style="font-weight:normal">Aug. 2018 - Present</span>
+      <span style="font-weight:normal">2018 - 2022</span>
     </th>
     <th style="text-align:left">
       PhD Candidate <span style="font-weight:normal"> in Industrial and Systems Engineering from</span> Virginia Tech
@@ -34,7 +34,7 @@ Education
 
   <tr style="font-size:16px">
     <th style="text-align:right">
-      <span style="font-weight:normal">Aug. 2014 - Feb 2016</span>
+      <span style="font-weight:normal">2014 - 2016</span>
     </th>
     <th style="text-align:left">
       Master of Science <span style="font-weight:normal">in Industrial and Systems Engineering from</span> Univeristy of Florida
@@ -43,7 +43,7 @@ Education
 
   <tr style="font-size:16px">
     <th style="text-align:right">
-      <span style="font-weight:normal">Sep. 2008 - Jan. 2013</span>
+      <span style="font-weight:normal">2008 - 2012</span>
     </th>
     <th style="text-align:left">
       Bachelor of Science <span style="font-weight:normal">in Industrial and Management Systems Engineering from</span> Kuwait University
