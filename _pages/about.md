@@ -11,7 +11,7 @@ redirect_from:
 About me
 ======
 
-I am a Ph.D. student in the Grado Department of Industrial and Systems Engineering at Virginia Tech. I work in the Machine Learning for Advanced Manufacturing Laboratory headed by [Dr. Xiaowei Yue](https://www.ise.vt.edu/people/faculty/yue.html). 
+I am a Ph.D. candidate in the Grado Department of Industrial and Systems Engineering at Virginia Tech. I work in the Machine Learning for Advanced Manufacturing Laboratory headed by [Dr. Xiaowei Yue](https://www.ise.vt.edu/people/faculty/yue.html). 
 
 My research interests include statistical quality control and machine learning, nonparametric regression and Gaussian processes, Bayesian modeling, and sequential design.
 
