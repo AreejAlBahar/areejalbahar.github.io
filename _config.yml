@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Areej AlBahar"
-  avatar           : "profile_.jpeg"
+  avatar           : #"profile_.jpeg"
   bio              : "Ph.D. candidate in Industrial and Systems Engineering at Virginia Tech"
   location         : "Blacksburg, VA"
   employer         :
