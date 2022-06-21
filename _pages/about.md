@@ -11,11 +11,15 @@ redirect_from:
 About me
 ======
 
+I am a Ph.D. student in the Grado Department of Industrial and Systems Engineering at Virginia Tech. I work in the Machine Learning for Advanced Manufacturing Laboratory headed by [Dr. Xiaowei Yue](https://www.ise.vt.edu/people/faculty/yue.html). 
+
+My research interests include statistical quality control and machine learning, nonparametric regression and Gaussian processes, Bayesian modeling, and sequential design.
+
 I am a Ph.D. candidate working with [Prof. Ali R. Butt](https://people.cs.vt.edu/butta/) in the [Distributed Systems & Storage Laboratory](https://dssl.cs.vt.edu/) at the department of Electrical and Computer Engineering at Virginia Tech. I am a recipient of [Kuwait University](http://www.kuniv.edu.kw) scholarship to pursue both my M.S. and Ph.D. degrees.
 
-My research interests include cluster management systems, serverless computing, containerization, cloud computing, machine learning, distributed file and storage systems, and performance analysis.
+<!-- My research interests include cluster management systems, serverless computing, containerization, cloud computing, machine learning, distributed file and storage systems, and performance analysis. -->
 
-You can find my CV [here](https://filebox.ece.vt.edu/~hadeel89/hadeelcv.pdf).
+<!-- You can find my CV [here](https://filebox.ece.vt.edu/~hadeel89/hadeelcv.pdf).  -->
 
 Education
 ======
@@ -26,7 +30,7 @@ Education
       <span style="font-weight:normal">Aug. 2018 - Present</span>
     </th>
     <th style="text-align:left">
-      PhD Candidate <span style="font-weight:normal"> in Computer Engineering at </span>Virgina Tech
+      PhD Candidate <span style="font-weight:normal"> in Industrial and Systems Engineering from</span>Virgina Tech
     </th>
   </tr>
 
@@ -35,16 +39,16 @@ Education
       <span style="font-weight:normal">Aug. 2014 - Feb 2016</span>
     </th>
     <th style="text-align:left">
-      Master of Science <span style="font-weight:normal">in Computer Engineering from</span> Columbia Univeristy
+      Master of Science <span style="font-weight:normal">in Industrial and Systems Engineering from</span> Univeristy of Florida
     </th>
   </tr>
 
   <tr style="font-size:16px">
     <th style="text-align:right">
-      <span style="font-weight:normal">Sep. 2007 - Jan. 2012</span>
+      <span style="font-weight:normal">Sep. 2008 - Jan. 2013</span>
     </th>
     <th style="text-align:left">
-      Bachelor of Science <span style="font-weight:normal">in Computer Engineering from</span> Kuwait University
+      Bachelor of Science <span style="font-weight:normal">in Industrial and Management Systems Engineering from</span> Kuwait University
     </th>
   </tr>
 </table>
