@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Areej AlBahar"
 title_separator          : "-"
 name                     : &name "Areej AlBahar"
-description              : &description "PhD candidate at Virginia Tech"
+description              : &description "PhD at Virginia Tech"
 url                      : https://areejalbahar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "areejalbahar.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Areej AlBahar"
   avatar           : "profile_.jpeg"
-  bio              : "Ph.D. candidate in Industrial and Systems Engineering at Virginia Tech"
+  bio              : "Ph.D. in Industrial and Systems Engineering at Virginia Tech"
   location         : "Blacksburg, VA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
