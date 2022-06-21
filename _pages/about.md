@@ -11,7 +11,7 @@ redirect_from:
 About me
 ======
 
-I am a Ph.D. candidate in the Grado Department of Industrial and Systems Engineering at Virginia Tech. I work in the Machine Learning for Advanced Manufacturing Laboratory headed by [Dr. Xiaowei Yue](https://www.ise.vt.edu/people/faculty/yue.html). 
+I completed my Ph.D. in Industrial and Systems Engineering at Virginia Tech advised by [Dr. Xiaowei Yue](https://www.ise.vt.edu/people/faculty/yue.html) and [Dr. Inyoung Kim](https://www.stat.vt.edu/people/stat-faculty/kim-inyoung.html) as part of the Machine Learning for Advanced Manufacturing Laboratory. 
 
 My research interests include statistical quality control and machine learning, nonparametric regression and Gaussian processes, Bayesian modeling, and sequential design.
 
@@ -25,7 +25,7 @@ Education
 <table style="width:100%">
   <tr style="font-size:16px">
     <th style="text-align:right">
-      <span style="font-weight:normal">2018-2022</span>
+      <span style="font-weight:normal">2018 - 2022</span>
     </th>
     <th style="text-align:left">
       PhD <span style="font-weight:normal"> in Industrial and Systems Engineering from</span> Virginia Tech
@@ -34,7 +34,7 @@ Education
 
   <tr style="font-size:16px">
     <th style="text-align:right">
-      <span style="font-weight:normal">2014-2016</span>
+      <span style="font-weight:normal">2014 - 2016</span>
     </th>
     <th style="text-align:left">
       Master of Science <span style="font-weight:normal">in Industrial and Systems Engineering from</span> Univeristy of Florida
@@ -43,7 +43,7 @@ Education
 
   <tr style="font-size:16px">
     <th style="text-align:right">
-      <span style="font-weight:normal">2008-2012</span>
+      <span style="font-weight:normal">2008 - 2012</span>
     </th>
     <th style="text-align:left">
       Bachelor of Science <span style="font-weight:normal">in Industrial and Management Systems Engineering from</span> Kuwait University
