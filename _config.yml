@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hadeel Albahar"
+title                    : "Areej AlBahar"
 title_separator          : "-"
-name                     : &name "Hadeel Albahar"
+name                     : &name "Areej AlBahar"
 description              : &description "PhD candidate at Virginia Tech"
 url                      : https://hadeelalbahar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "hadeelalbahar.github.io"
+repository               : "areejalbahar.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -73,22 +73,22 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google" # false (default), "google", "google-universal", "custom"
+  provider               : false # "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : G-RLBNBZYGXT
+    tracking_id          : #G-RLBXXXXXX
 
 
 # Site Author
 author:
-  name             : "Hadeel Albahar"
-  avatar           : "profile.jpeg"
-  bio              : "PhD candidate in Distributed Systems and Storage Laboratory (DSSL) at Virginia Tech"
+  name             : "Areej AlBahar"
+  avatar           : #"profile.jpeg"
+  bio              : "PhD candidate in Industrial and Systems Engineering at Virginia Tech"
   location         : "Blacksburg, VA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=OTtYVgYAAAAJ&hl=en"
-  email            : "hadeel89@vt.edu"
-  researchgate     : "https://www.researchgate.net/profile/Hadeel-Albahar-2"
+  googlescholar    : "https://scholar.google.com/citations?user=Sa4lHPQAAAAJ&hl=en"
+  email            : "areejaa3@vt.edu"
+  researchgate     : #"https://www.researchgate.net/profile/Hadeel-Albahar-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "hadeelalbahar"
+  linkedin         : "areej-ahmad-albahar-687122b0"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "hadeelalbahar"
+  twitter          : #"hadeelalbahar"
   vine             :
   weibo            :
   xing             :
